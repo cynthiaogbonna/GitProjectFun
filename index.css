@@ -1,0 +1,18 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: orange;
+}
+h1{
+    background-color: brown;
+}
+h2{
+    background-color: gold;
+}
+h3{
+    background-color: pink;
+}
+p{
+    background-color: purple;
+}
